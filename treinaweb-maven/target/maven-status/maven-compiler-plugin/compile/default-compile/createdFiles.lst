@@ -1,0 +1,9 @@
+br\com\treinamento\treinawebmaven\ServletInitializer.class
+br\com\treinamento\treinawebmaven\modelo\Pessoa.class
+br\com\treinamento\treinawebmaven\TreinawebMavenApplication.class
+br\com\treinamento\treinawebmaven\dao\PessoaDao.class
+br\com\treinamento\treinawebmaven\controller\IndexController.class
+br\com\treinamento\treinawebmaven\controller\CategoriaController.class
+br\com\treinamento\treinawebmaven\dao\CategoriaDao.class
+br\com\treinamento\treinawebmaven\controller\PessoaController.class
+br\com\treinamento\treinawebmaven\modelo\Categoria.class
